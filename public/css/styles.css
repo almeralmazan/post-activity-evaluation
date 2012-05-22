@@ -1,0 +1,28 @@
+body { 
+  background-color: #e3e3e3; 
+  font-family: Helvetica, sans-serif; 
+  width: 960px;
+  margin: 0 auto;
+}
+
+#title-head h4, 
+#title-head h5 {
+  margin-top: -20px;
+}
+
+select, input {
+  padding: 4px;
+}
+
+#submit {
+  width: 220px;
+  height: 40px;
+}
+
+form ol input[type=text] {
+  width: 400px;
+}
+
+li {
+  width: 500px;
+}

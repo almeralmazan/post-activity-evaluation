@@ -1,0 +1,46 @@
+#title-head
+  %h2 POST-ACTIVITY EVALUATION
+  %h4 Akbay-Kapwa Convergence Caravan
+  %h5= @time
+
+<br />
+%form(action="/register" method="post")
+  %label(for="full_name")Pangalan:
+  %input(type="text" id="full_name" name="full_name" placeholder="Input your name here")
+  <br />
+  %label(for="age")Edad:
+  %input(type="text" id="age" name="age")
+  <br />
+  %label(for="sex")Kasarian:
+  %select
+    %option(id="female" name="female")Female
+    %option(id="male" name="male")Male
+  <br />
+  %label(for="work")Hanap-Buhay:
+  %input(type="text" id="work" name="work" placeholder="work")
+  <br />
+  %label(for="address")Tirahan / Address:
+  %input(type="text" id="address" name="address")
+  <br />
+  %label(for="benefits")Benipisyaryo ng 4Ps:
+  %select
+    %option(id="oo" name="oo")Oo
+    %option(id="hindi" name="hindi")Hindi
+  <br />
+  <br />
+  <br />
+  %label(for="questions")Mga katanungan:
+  %ol
+    %li Anong serbisyo o mga serbisyo dito sa Akbay-Kapwa ang iyong napakinabangan?
+    %input(type="text" id="first_question" name="first_question")
+    <br />
+    %li Kuntento ka ba sa serbisyo o mga serbisyo na naibigay sa iyo?
+    %input(type="text" id="second_question" name="second_question")
+    <br />
+    %li Bakit Oo/Hindi ang iyong sagot?
+    %input(type="text" id="third_question" name="third_question")
+    <br />
+    %li Liban sa mga serbisyo dito sa Akbay Kapwa, may iba pang serbisyo ng pamahalaan ang nais mong mapakinabangan? Paki-tukoy.
+    %input(type="text" id="fourth_question" name="fourth_question")
+    <br />
+  %input(type="submit" id="submit" value="Save")
