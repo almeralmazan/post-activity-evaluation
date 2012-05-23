@@ -4,4 +4,12 @@
     %link(rel="stylesheet" href="css/styles.css")
     %title= @title
   %body
+    #title-head
+      %h2 POST-ACTIVITY EVALUATION
+      %h4 Akbay-Kapwa Convergence Caravan
+      %h5= @time.strftime("%d - %B - %Y")
+
     = yield
+
+    %footer
+      %p Copyright &copy; 2012

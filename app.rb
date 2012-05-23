@@ -33,8 +33,7 @@ get '/' do
 end
 
 post '/register' do
-  # do code here
   @title = 'Register Page'
-  @name = params[:full_name]
+  @name = params[:full_name]      # this is only for test
   haml :register
 end

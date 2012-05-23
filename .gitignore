@@ -1,1 +1,3 @@
 *.swp
+views/*.swp
+public/css/*.swp

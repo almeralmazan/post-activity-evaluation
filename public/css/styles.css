@@ -1,28 +1,94 @@
 body { 
-  background-color: #e3e3e3; 
   font-family: Helvetica, sans-serif; 
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  background-color: #fff;
+  width: 960px;
+  height: 554px;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* Main Title */
+#title-head { 
+  background-color: #000; 
+  color: #fff; 
+  text-align: center;
+  height: 70px;
+  margin: 0;
+  padding: 10px;
+  padding-bottom: 10px;
+} 
+#title-head h4, #title-head h5 { margin-top: -20px; }
+
+select, input { padding: 8px; }
+select { width: 180px; } 
+#left-part textarea { width: 200px; }
+#right-part textarea { width: 350px; }
+
+form ol input[type=text] { width: 300px; }
+
+li { width: 350px; padding-top: 15px; }
+
+label { display: block; margin-top: 5px; padding-top: 10px; }
+
+#left-part, #right-part { 
+  border: 5px solid #666; 
+  background-color: #C8D8E5;
+  height: 480px;
+  margin: 25px 10px;
+}
+
+#left-part {
+  position: relative;
+  width: 200px;
+  padding: 10px 65px;
+  margin-left: 50px;
+  float: left;
+}
+
+#right-part {
+  width: 450px;
+  margin-right: 50px;
+  padding: 10px 20px;
+  float: right;
+}
+
+#thick-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#fourth_question {
+  margin-bottom: 20px;
+}
+
+#submit { 
+  width: 420px; 
+  height: 40px;
+  font-size: 20px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+#submit:hover {
+  color: green;
+}
+
+footer {
+  color: #fff;
+  height: 50px;
+  background-color: black;
+}
+
+footer p {
   width: 960px;
   margin: 0 auto;
-}
-
-#title-head h4, 
-#title-head h5 {
-  margin-top: -20px;
-}
-
-select, input {
-  padding: 4px;
-}
-
-#submit {
-  width: 220px;
-  height: 40px;
-}
-
-form ol input[type=text] {
-  width: 400px;
-}
-
-li {
-  width: 500px;
+  padding-top: 20px;
 }
