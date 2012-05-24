@@ -28,8 +28,6 @@ body {
 
 select, input { padding: 8px; }
 select { width: 180px; } 
-#left-part textarea { width: 200px; }
-#right-part textarea { width: 350px; }
 
 form ol input[type=text] { width: 300px; }
 
@@ -37,8 +35,11 @@ li { width: 350px; padding-top: 15px; }
 
 label { display: block; margin-top: 5px; padding-top: 10px; }
 
+#left-part textarea { width: 200px; }
+#right-part textarea { width: 350px; }
+
 #left-part, #right-part { 
-  border: 5px solid #666; 
+  border: 5px solid #eee; 
   background-color: #C8D8E5;
   height: 480px;
   margin: 25px 10px;

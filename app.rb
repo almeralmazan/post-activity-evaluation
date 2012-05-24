@@ -5,6 +5,7 @@ require 'data_mapper'
 DataMapper.setup(:default, "sqlite3://#{Dir.pwd}/pae.db")
 
 class Person
+
   include DataMapper::Resource
 
   property :id,             Serial
@@ -30,6 +31,16 @@ get '/' do
   @time = Time.now
   @title = 'Survey Form'
   haml :index
+end
+
+# new record page
+get '/new' do
+
+end 
+
+# create record
+post '/create' do
+
 end
 
 post '/register' do
