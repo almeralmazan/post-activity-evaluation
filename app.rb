@@ -35,7 +35,9 @@ end
 
 # new record page
 get '/new' do
-
+  @time = Time.now
+  @title = 'Create new record'
+  haml :new
 end 
 
 # create record

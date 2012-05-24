@@ -1,6 +1,7 @@
 body { 
   font-family: Helvetica, sans-serif; 
   font-size: 14px;
+  color: #555;
   margin: 0;
   padding: 0;
 }
@@ -14,24 +15,27 @@ body {
   padding-bottom: 10px;
 }
 
-/* Main Title */
 #title-head { 
-  background-color: #000; 
-  color: #fff; 
-  text-align: center;
+  background-color: #e3e3e3; 
   height: 70px;
-  margin: 0;
-  padding: 10px;
-  padding-bottom: 10px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 8px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #aaa;
 } 
 #title-head h4, #title-head h5 { margin-top: -20px; }
 
-select, input { padding: 8px; }
+select, input, textarea { font-family: Helvetica; padding: 8px; }
 select { width: 180px; } 
 
 form ol input[type=text] { width: 300px; }
 
-li { width: 350px; padding-top: 15px; }
+li { 
+  width: 350px; 
+  padding-top: 8px;
+  line-height: 1.5;
+}
 
 label { display: block; margin-top: 5px; padding-top: 10px; }
 
@@ -40,9 +44,10 @@ label { display: block; margin-top: 5px; padding-top: 10px; }
 
 #left-part, #right-part { 
   border: 5px solid #eee; 
-  background-color: #C8D8E5;
-  height: 480px;
-  margin: 25px 10px;
+  background-color: #c8dbfc;
+  height: 500px;
+  margin: 15px 10px;
+  color: #444;
 }
 
 #left-part {
@@ -84,12 +89,22 @@ label { display: block; margin-top: 5px; padding-top: 10px; }
 
 footer {
   color: #fff;
-  height: 50px;
-  background-color: black;
+  height: 46px;
+  background-color: #333;
 }
 
 footer p {
+  padding-top: 15px;
   width: 960px;
   margin: 0 auto;
-  padding-top: 20px;
+}
+
+footer a:link, footer a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #C8D8E5;
+  text-decoration: underline;
 }
