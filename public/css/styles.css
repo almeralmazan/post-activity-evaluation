@@ -31,17 +31,11 @@ select { width: 180px; }
 
 form ol input[type=text] { width: 300px; }
 
-li { 
-  width: 350px; 
-  padding-top: 8px;
-  line-height: 1.5;
-}
-
+li { width: 350px; padding-top: 8px; line-height: 1.5; }
 label { display: block; margin-top: 5px; padding-top: 10px; }
 
 #left-part textarea { width: 200px; }
 #right-part textarea { width: 350px; }
-
 #left-part, #right-part { 
   border: 5px solid #eee; 
   background-color: #c8dbfc;
