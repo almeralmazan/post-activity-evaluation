@@ -2,6 +2,7 @@ require 'sinatra'
 require 'haml'
 require 'data_mapper'
 
+# ================= DATABASE and TABLE setup ===================
 DataMapper.setup(:default, "sqlite3://#{Dir.pwd}/pae.db")
 
 class Person
@@ -26,6 +27,7 @@ end
 
 # Create or upgrade all tables at once, like magic
 DataMapper.auto_upgrade!
+# ============== end DATABASE and TABLE setup ===================
 
 get '/' do
   @time = Time.now
