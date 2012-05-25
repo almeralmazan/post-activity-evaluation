@@ -4,13 +4,13 @@ body {
   color: #555;
   margin: 0;
   padding: 0;
+  background-color: #FEFEF2;
 }
 
 #container {
-  background-color: #fff;
   width: 960px;
   height: 554px;
-  margin: 0 auto;
+  margin: 5px auto;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -22,11 +22,19 @@ body {
   margin: 0 auto;
   padding: 8px;
   padding-bottom: 15px;
-  border-bottom: 1px solid #aaa;
+  box-shadow: 0px 0px 8px 0px #000; /* Opera 10.5, IE9, FF4+, Chrome 6+, iOS 5 */ 
+  text-shadow: white 0.1em 0.1em 0.2em;
 } 
 #title-head h4, #title-head h5 { margin-top: -20px; }
 
-select, input, textarea { font-family: Helvetica; padding: 8px; }
+select, input, textarea { 
+  font-size: 14px;
+  font-family: Helvetica; 
+  color: #555;
+  padding: 5px; 
+  width: 260px;
+  border: 1px solid #aaa;
+}
 select { width: 180px; } 
 
 form ol input[type=text] { width: 300px; }
@@ -37,23 +45,35 @@ li {
   line-height: 1.5;
 }
 
-label { display: block; margin-top: 5px; padding-top: 10px; }
+label { 
+  font-family: Times;
+  font-size: 17px;
+  font-style: italic;
+  display: block;
+  margin-top: 5px; 
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
 
-#left-part textarea { width: 200px; }
+#left-part textarea { width: 260px; }
 #right-part textarea { width: 350px; }
+#right-part h3 { text-align: center; }
 
 #left-part, #right-part { 
-  border: 5px solid #eee; 
-  background-color: #c8dbfc;
-  height: 500px;
+  border: 1px solid #eee; 
+  height: 515px;
   margin: 15px 10px;
   color: #444;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
 }
 
 #left-part {
   position: relative;
-  width: 200px;
-  padding: 10px 65px;
+  width: 270px;
+  padding: 10px 35px;
   margin-left: 50px;
   float: left;
 }
@@ -81,16 +101,25 @@ label { display: block; margin-top: 5px; padding-top: 10px; }
   font-size: 20px;
   margin-left: 15px;
   margin-top: 10px;
+  color: white;
+  background-color: #5599cb;
+  border-radius: 5px;
+  text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.4);
 }
 
 #submit:hover {
-  color: green;
+  color: white;
+  background-color: #5582cb;
 }
 
 footer {
   color: #fff;
   height: 46px;
   background-color: #333;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 
 footer p {
