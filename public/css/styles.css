@@ -37,13 +37,15 @@ select, input, textarea {
 }
 select { width: 180px; } 
 
-form ol input[type=text] { width: 300px; }
+form ol input[type=text] { width: 350px; }
+form ol input[type=text], form ol textarea {
+  margin-bottom: 15px;
+}
 
-li { width: 350px; padding-top: 8px; line-height: 1.5; }
 label { display: block; margin-top: 5px; padding-top: 10px; }
+
 li { 
   width: 350px; 
-  padding-top: 8px;
   line-height: 1.35;
   font-family: Times;
   font-size: 16px;
@@ -63,7 +65,7 @@ label {
 
 #left-part textarea { width: 260px; height: 50px; }
 #right-part textarea { width: 350px; }
-#right-part h3 { text-align: center; }
+#right-part h2 { font-family: Times; text-align: center; }
 
 #left-part, #right-part { 
   border: 1px solid #eee; 
@@ -101,11 +103,10 @@ label {
 }
 
 #submit { 
-  width: 420px; 
+  width: 180px; 
   height: 40px;
   font-size: 20px;
-  margin-left: 15px;
-  margin-top: 10px;
+  margin-left: 125px;
   color: white;
   background-color: #5599cb;
   border-radius: 5px;
