@@ -1,42 +1,42 @@
 #container
   
-  %form(action="/register" method="post")
+  %form(action="/create" method="post")
     #left-part
       %label(for="full_name")Pangalan:
-      %input(type="text" id="full_name" name="full_name" placeholder="Pakisulat ang pangalan...")
+      %input(type="text" name="full_name" placeholder="Pakisulat ang buong pangalan...")
 
       %label(for="age")Edad:
-      %input(type="number" id="age" name="age")
+      %input(type="number" name="age" min="16" max="120")
 
       %label(for="sex")Kasarian:
-      %select
-        %option(id="male" name="male")Lalaki - (Male)
-        %option(id="female" name="female")Babae - (Female)
+      %select(id="sex" name="sex")
+        %option(value="M") Lalaki - (Male)
+        %option(value="F") Babae - (Female)
 
       %label(for="work")Hanap-Buhay:
-      %input(type="text" id="work" name="work" placeholder="Ano ang trabaho...")
+      %input(type="text" name="work" placeholder="Ano ang trabaho...")
 
       %label(for="address")Tirahan / Address:
-      %textarea(id="address" name="address" rows="4")
+      %textarea(name="address" rows="4" placeholder="Saan nakatira...")
 
       %label(for="benefits")Benipisyaryo ng 4Ps?
-      %select
-        %option(id="oo" name="oo")Oo - (Yes)
-        %option(id="hindi" name="hindi")Hindi - (No)
+      %select(name="benefits")
+        %option(value="yes") Oo - (Yes)
+        %option(value="no") Hindi - (No)
 
     #right-part
       %h2 Mga katanungan:
       %ol
         %li Anong serbisyo o mga serbisyo dito sa Akbay-Kapwa ang iyong napakinabangan?
-        %input(type="text" id="first_answer" name="first_answer")
+        %input(type="text" name="first_answer")
 
         %li Kuntento ka ba sa serbisyo o mga serbisyo na naibigay sa iyo?
-        %input(type="text" id="second_answer" name="second_answer")
+        %input(type="text" name="second_answer")
 
         %li Bakit Oo/Hindi ang iyong sagot?
-        %textarea(id="third_answer" name="third_answer")
+        %textarea(name="third_answer")
 
         %li Liban sa mga serbisyo dito sa Akbay-Kapwa, may iba pang serbisyo ng pamahalaan ang nais mong mapakinabangan? Paki-tukoy.
-        %textarea(id="fourth_answer" name="fourth_answer")
+        %textarea(name="fourth_answer")
 
       %input(type="submit" id="submit" value="Save")
