@@ -29,10 +29,6 @@ end
 DataMapper.auto_upgrade!
 # ============== end DATABASE and TABLE setup ===================
 
-before do
-  headers "Content-Type" => "text/html; charset=utf-8"
-end
-
 get '/' do
   @time = Time.now
   @title = 'Survey Form'
