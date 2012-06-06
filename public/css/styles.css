@@ -35,6 +35,7 @@ select, input, textarea {
   width: 260px;
   border: 1px solid #aaa;
 }
+
 select { width: 180px; } 
 
 form ol input[type=text] { width: 350px; }
