@@ -1,0 +1,1191 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+<ss:Styles><ss:Style ss:ID="1"><ss:Font ss:Bold="1"/></ss:Style></ss:Styles>
+<ss:Worksheet ss:Name="Sqliteman Export">
+<ss:Table>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Row ss:StyleID="1">
+<ss:Cell><ss:Data ss:Type="String">id</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">pangalan</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">edad</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">kasarian</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">trabaho</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">tirahan</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">benipisyaryo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">unang_sagot</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">pangalawang_sagot</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">pangatlong_sagot</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">pangapat_sagot</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">created_at</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">updated_at</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">1</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Mae A. Bon</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">40</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">392 Transmitter Area Maricaban, Pasay City.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">May serbisyo ang 4Ps.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kahit papano nakatulong ang 4Ps sa amin. Sana makapagtrabaho bago man matapos ang programa ng 4Ps at hindi aasa.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nakakatulong sa amin ang 4Ps lalo na sa mga bata.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T11:29:47+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T11:29:47+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Rosita D. Amable</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">43</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">391 Transmitter Area Maricaban, Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ang serbisyo ng 4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kasi hindi lang aasa sa 4Ps. Kailangan maghanap ng trabaho at makatulong sa pamilya.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ang 4Ps ay nakakatulong sa aking mga anak magpaaral.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T11:31:58+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T11:31:58+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">3</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nenita T. Civil</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">57</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nagtitinda ng mga sabon</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">070 Transmitter Maricaban, Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nakakatulong sa mga bata sa pag-aaral</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Sa mga baon at saka sa pangangailangan nang mga bata sa pagpasok sa eskuwela</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Meron, kung hindi naman po ako makapasok sa trabaho dahil ako ay may edaaad na. Gusto ko po na pahiramin po ninyo ako nang puhunan para makapagtinda ako uli dahil mara po akong mga apo.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:16:19+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:16:19+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Rosanna D. Maraon</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">40</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0604-A PNR Site Nagmana W. B. Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4Ps tulong pantawid sa pamilyang pilipino</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil nakakatulong sa amin sa gastusin sa mga bata.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Magkaroon ng trabaho makatulong sa asawa ko.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:23:55+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:23:55+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Alma O. Tarig</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">45</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Housewife / Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">370 Transmitter Area Maricaban Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ang serbishyo ng 4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kasi nakakatulong ito sa pagbibigay ko ng allowance sa aking mga anak. At pati ako maraming natutunan tungkol sa parenting guide.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Meron, gusto ko sanang mapakinabang na masa sa mabibigyan ng trabaho kasi may apat po akong anak na nag-aaral dito sa Pasay.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:26:26+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:26:26+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">6</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lolita B. Gagatiga</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">44</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nagtitinda ng bigas / Sari-sari store</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Unit 324 Cattleya Building, Eusebio Bliss IV Manggahan Pasig</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Banko, BP</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kasi po nakaranas din po ako ng libre at naka-discount po ako</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Okay na po kasi isa na po ako sa nakakatanggap ng Cash Grant at puhunan thrue SEA-K</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:29:16+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:29:16+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">7</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Raquel Maray</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">54</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">340 Cattleya Building, Manggahan Pasig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Job fair at mga impormasyon ukol  sa pantawid.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo kasi malaking tulong sa amin ang pagkakaroon ng programang ito upang mapaunlad din namin ang aming pamilya sa tulong na rin ninyo.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Libreng paaral ng mga bata.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:31:19+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:31:19+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">8</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Marivic Tejam</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">20</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Phase 2 Purok 4, Payatas B, Quezon City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil nakakatulong ito sa pangangailangay ng aming pamily</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kasi nakakatulong ito ng malaki sa aking pamilya</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:32:48+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:32:48+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">9</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ma. Cathy Lapinig Asis</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">19</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Phase II Purok 4 Payatas B, Quezon City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pantawid Pamilya Pilipino Program</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil nakakatulong sa pangangailangan ng aking pamilya</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:49:43+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:49:43+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">10</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Evangeline A. Hernandez</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">41</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">PNR Site FTI Compound Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Edukasyon</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kulang pa po sa mga pangangailangan sa mga estudyante.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:51:10+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:51:10+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">11</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ricky E. Hernandez</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">42</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">PNR Site FTI Compound Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Edukasyon</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kulang pa po sa mga pangangailangan ng mga estudyante.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:53:22+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:53:22+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">12</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Connie J. Villamor</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">20</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Phase 2 Purok 4 Brgy. Payatas B, Quezon City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:54:37+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:54:37+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">13</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Larry V. Glorioso</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">26</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">12 Upper Nomonds, Brgy 201 Zone 20 Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pagbigay po ng Cash Grant sa mga bata</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil naibibigay naman ng tamang pangangailangan</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Makahanap po ng trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:57:09+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:57:09+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">14</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Jackilyn Arcilla</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">25</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">12 Upper Nomads, Brgy 201 Zone 20 Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pagbibigay po ng Cash Grant sa mga bata</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil naibibigay naman ng tamang pangangailangan</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Makahanap po ng trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:58:44+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T12:58:44+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">15</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Gimaly Panaligan Borines</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">30</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Brgy 201 Zone 20 Upper Nomads Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pagtanggap ng cash grant nakakatulong sa pag-aaral ng mga bata.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil kulang at hindi dapat asahan ang cash grant na nabibigay nito.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nais kong magkaroon ng trabaho para may dagdag na kita at para makatulong sa pamilya dahil walang regular na trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:01:05+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:01:05+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">16</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Christine Magbulogtong</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">19</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">PNR Site FTI Compound Western Bicutan, Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4Ps buwan-buwan sustento gamit ang cash card</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo kasi nakakatulong sa pangangailangan.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, trabaho</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:03:10+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:03:10+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">17</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Villa Villegas</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">22</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">PNR Site FTI Compound, Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, nakatutulong para sa aking mga anak.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:04:30+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:04:30+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">18</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ma. Revelinaly D. Sy</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">45</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Rug making</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">070 Steve St., Brgy Commonwealth, Quezon City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nakapag-aral ang mga anak ko.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil malaking bagay na naitulak sa buhay.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:07:19+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:07:19+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">19</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dianne A. Maribao</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">47</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Rug - maker</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">267 Steve St., Brgy Commonwealth, Quezon City.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nakapag-aral ang mga anak ko.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:10:04+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:10:04+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">20</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Almira C. Thomas</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">40</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">812 PNR Site FTI Compound Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Mga pagkaing na masuustansiya</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Malaki ang pakinabang sa pag-aaral</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, mabigyan ng sapat na trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:11:31+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:11:31+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">21</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Mark Jerick G. Hernaez</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">21</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">065 Gold St., Brgy. Commonwealth, Quezon City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:13:02+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:13:02+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">22</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Romeo M. Dimayuga</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">32</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Vendor</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Villongco St., 037 Baranggay Commonwealth, Q. C.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Tungkol sa trabahong makakamit</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Maganda at makarating sa ibang lugar.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:14:42+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:14:42+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">23</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Fie S. Mayagma</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">33</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">649 Brgy. Baseco, Manila</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nakakapangutang</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo - Kasi pwede ka humiram sa kanila sa pang hanapbuhay</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ang mabigyan ako ng trabaho na pwede makatulong sa akin at sa pamilya.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:16:18+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:16:18+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">24</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Maricar V. Belisano</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">19</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Service Crew</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Phas II Purok 4 Lupang Pangako Payatas B Q.C.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nasusuportahan nito ang aming mga pangangailangan</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil nakakatulong ito sa pangangailangan ng aking pamilya</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:18:14+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:18:14+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">25</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ma. Ma-ila D. Sorio</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">33</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Phase 2 Purok 4 Payatas B, Q.C.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pantawid Pamilya Pilipino Program</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:19:30+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:19:30+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">26</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Elsa Mundala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">42</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Phase 2 Purok 4, Payatas B, Q.C.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:20:28+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:20:28+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">27</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Zaldy A. Sorio</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">35</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Phase 2 Purok 4 Payatas B, Q.C.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pantawid Pamilya Pilipino Program</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:23:35+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:23:35+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">28</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Esteban V. Sacedo Jr.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">49</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pintor</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Row 9 Unit 8 Block 3 Brgy 649 Baseco Habitat, Manila</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pantawid Pamilya Pilipino Program</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil malaking tulong ang sasahurin ko sa pang-araw-araw na pangangailangan.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Job fair</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:26:09+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:26:09+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">29</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Elena B. Buising</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">36</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">House keeper</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">153 Mangga III Nagpayong Ping Pasig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pantawid Pamilya Pilipino Program</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Malaking tulong po ito sa bawat pamilyang pilipinong mahihirap.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:28:22+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:28:22+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">30</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Rowean Salvador</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">31</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">151 PNR FTI Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ang pagpapaaral sa mga bata</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, kasi makakatulong sa pag-aaral ang anak ko at iba pang gagastusin</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo magkaron ng hanap buhay.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:31:09+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:31:09+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">31</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Jocelyn L. Daquioag</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">35</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Block 1 Lot 4 Yakal St., Sto. Nino Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Medical</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kapaki-pakinabang ang project nila</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:32:24+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:32:24+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">32</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Rodeleah T. Layoso</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">35</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">1790 Sikap Compound Kalawaan Pasig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">FDS, Cash Grant</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nakakatulong matuto kami sa mga batas at karapatan at Cash Grant panggastos ng mga bata.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Sana po maturuan ng special skill ang aking asawa halimbawa paggawa ng TV at iba pang appliances.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:34:54+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:34:54+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">33</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lerma Placides</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">23</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Unemployed</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Brgy 105 Sitio Damayan Tondo Manila (Pier 18)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pag-papaaral ng anak tulad ng allowance.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil malaking tulong din ito pantawid ng taon sa pagaaral nila</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:37:04+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:37:04+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">34</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Leticia Tan Sonza</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">43</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Vendor</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Tulong sa pag-aaral ng bata sa pangangailangan sa eskwelahan at pambaon</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo kasi kung wala sila maraming kabataan ang hindi makapag-aaral at walang trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:39:41+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:39:41+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">35</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Mona Lisa S. Cantong</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">32</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Vendor</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">218 Renz St., Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Medical</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:40:36+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:40:36+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">36</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Helen Macapanas</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">42</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Rug - maker</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">297 Steve St., Brgy Commonwealth QC</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nakapag-aral ang mga bata ng maayos</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil nakakatulong sa aming buhay sa pang-araw-araw.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yong matulungan kami sa aming mga anak na makahanap ng trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:42:57+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:42:57+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">37</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Junjun Peñaflor</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">29</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Vendor</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">21 Remy St., Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Medical</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:44:12+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:44:12+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">38</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Orlain S. Anabelle</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">28</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">236 Primero De Mayo St., Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Medical</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala na</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:45:57+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:45:57+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">39</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Jocelyn T. Fortuna</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">37</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2297 FB Harrison Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pagtulong sa pangangailangan sa pag-aaral ng anak</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo dahil nakatulong sa akin.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pagtatrabaho</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:47:25+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:47:25+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">40</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ma. Concepcion C. Binarao</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">29</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Concorde St., Don Carlos Village Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pantawid Pamilya Pilipino Program</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil po kahit paano ay natutulungan kami ng programa ng walang hirap.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Para po sa aking okey na po sa amin ito pero kung papalarin pa na mkasama sa iba pang programa at tatatnggapin ko pong buong puso.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:49:53+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:49:53+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">41</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Allan A. Decombar</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">29</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Block 30 Lot 20 #60 St., Flena Maricaban Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ang benipisyo na kada 3  months na dumarating ay aming natatanggap ako'y nagpapasalamat sa akbay kapwa maraming natutulungan.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil oo ang sagot ko dahil malaking bagay na rin ang naibibigay ng 4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Gusto ko pong matulungan ako na magkaroon ako ng trabaho sana matulungan ako.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:54:23+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T13:54:23+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">42</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ruperto J. Villano Jr.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">37</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">39 Elena St., Maricabana Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ang benipisyo na kada 3 months na dumarating ay aming natatanggap</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil malaki narin ang na binigay ng 4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Gusto ko pong matuto sa aking nakaraan. Ang trabaho sana matulungan ako.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:07:02+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:07:02+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">43</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Antonio D. Daep</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">41</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Blk 7 Lot 55 Baseco Compound Port Area Manila</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kasi po dapat mayroon hanapbuhay ang padre de pamilya maliban sa tulong</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Trabaho</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:08:47+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:08:47+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">44</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Arnie P. Abellanida</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">33</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Tricycle Driver</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Blk 25 Apitong Ext. Nagpayong II Pinagbuhatan Pasig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Trabaho</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kasi malaki ang naitulong samen.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Gusto ko makapasok ng trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:11:16+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:11:16+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">45</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lilian A. Tatel</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">21</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yaya</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Blk 25 Lawaan St., Eusebio Ave. Nagpayong II Pinagbuhatan Pasig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Paano ko matutulungan ang aking pamilya kong hindi ko susubukan.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Gusto ko makapagtrabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:21:51+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:21:51+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">46</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Sanima P. Cumulang</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">36</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Vendor</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil kahit papaano nakakatulong din po sa amin</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Opo makapag-trabaho</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:23:02+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:23:02+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">47</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Diosdado I. Osayda Jr.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">41</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Vendor</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Raw 9 Unit 8 Blk 3 Brgy 649 Baseco Habitat, Manila</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pantawid</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil malaking tulong ito sa pang-araw-araw na pangangailangan.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Job fair</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:24:29+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:24:29+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">48</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Sheryl Tampigay</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">27</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">House keeper</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nakatulong kasi sa akin</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala na po.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:25:52+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:25:52+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">49</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Jomelie E. DeGuia</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">20</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">#682 PNR St., FTI Compound Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil sapat na po sa amin ang tulong na nanggagaling sa gobyerno.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Sana magkaroon ako ng trabaho, kahit anong trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:27:32+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:27:32+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">50</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Joyme Tato</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">18</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">#782 Blk 1 Gasangan Baseco Port Area, Manila</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pantawid</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil malaking tulong na para sa amin ang makatanggap ng sahod pantawid sa araw-araw na pangangailangan.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Job fair.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:28:51+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:28:51+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">51</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Catherine A. Roa</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">27</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Housewife</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">1066 Blk 25 Lawaan St., Nag. II Pinagbuhatan Pasig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kaya oo kasi nakakatulong ito pandagdag baon at sa gamot ng aking mga anak</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Gusto ko lang makapagtrabaho yun lang.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:30:36+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:30:36+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">52</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Marivic D. Panes</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">22</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">211 Pag-asa Compound Kalawaan Pasig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil po kahit sa ganung paraan ay nakakatulong po nang malaki ang programang 4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Mabigyan po nang trabaho po sa ganung paraan makakatulong po ako sa magulang.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:32:02+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:32:02+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">53</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ma. Wilma S. Abuyog</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">50</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">211 Purok 6 Pag-asa Compound Kalawaan Pasig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:32:53+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:32:53+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">54</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Angelie Petallio</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">22</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Blk 4 Lot 12 Kalayaan Village Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:35:33+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:35:33+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">55</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Emma I. Petallo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">48</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Labandera</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Blk 4 Lot 12 Kalayaan Village Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil ito ay tumutulong sa aking pamilya lalong-lalo na sa aking mga anak.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:36:37+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:36:37+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">56</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Chloe Marie G. De Guzman</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">18</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">32 Bayabas Ext. Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nakakatulong ito sapagkat naipagpatuloy pa ng mga aking kapatid ang tulong na ibibigay</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo kahit na kulang ang serbisyo ngunit nakakatulong rin naman ito sa mga pang-araw-araw</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:38:27+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:38:27+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">57</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Maribel G. Agarin</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">40</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">#07 Sampaguit St., Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Natutulungan sa pag-aaral ng mga bata</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi po kasi kulang pa sa mga pangangailangan ng mga bata.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Magkaroon ng trabaho</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:40:00+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:40:00+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">58</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Janet N. Regala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">32</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Housewife</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Bldg. 12-77 Temp. Housing Tondo Manila</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nakakatulong po ang serbisyong ito sa pag-aaral ng anak sa aming pamilya</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kahit papaano nakakatulong ito sa gastusin at nakakabili na ako ng konting pagkain.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:42:16+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:42:16+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">59</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Teresita G. Gulayan</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">36</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Bldg. 12-U-10 Temp. House Tondo Vitas Manila</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yung binibigay nilang Cash Grant</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil kahit papaano nakakatulong sa mga anak kong nag-aaral.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:45:10+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:45:10+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">60</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Jayson S. Bernaldez</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">28</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">02 Bayabas St., Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ang binibigay ng 4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kahit pano malaking tulong ito para sa amin.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Magkaroon ng trabaho, para kahit pano masuportahan ang pamilya.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:48:35+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:48:35+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">61</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Milagres Dimalibot Tuplano</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">42</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Peterbilt Compound Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Natutulungan ang pag-aaral ng mga anak ko</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Opo kasi para sa pag-aaral ng mga anak ko. Sana magtuloy-tuloy na lang ang serbisyo sa amin.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ang magkaroon ng trabaho. Kahit janitess lang po.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:50:33+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:50:33+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">62</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Josie H. Padilla</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">21</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">063 G</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:51:12+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:51:12+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">63</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lenielyn Rebuya</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">24</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">438-A PNR Site, FTI Compound, Western Bicutan</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil sapat na po ang binigay sa amin ang tulong na galing sa inyo.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Sana magkaroon me ng trabaho kahit anong klase.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:52:43+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:52:43+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">64</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Veronica Abrasaldo Avila</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">43</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">PNR Site FTI, Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Malaking tulong sa aming mga mahirap</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil malaking tulong sa amin ang perang bigay sa amin ang 4Ps o DSWD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Maliban sa pinansyal marami pa kaming natutunan. Sana po bigyan po ako ng trabaho kahit anong trabaho masaya na ako. Maraming Salamat po.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:56:21+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:56:21+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">65</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Jenelyn G. Magbulogtong</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">21</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">#523 PNR Site FTI Compound Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4Ps buwan-buwan sustento</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo kasi nakatutulong sa pag-aaral</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:57:57+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:57:57+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">66</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Joseph S. Maraon</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">20</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">PNR Site FTI Compound Western Bicutan Taguig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Paghahanap ng trabaho or 4Ps</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil nakakatulong ito sa araw-araw na pangkabuhayan</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Magkaroon ng trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:59:09+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T14:59:09+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">67</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Edelyn S. Tongco</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">32</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">J. A. Roldan Everlasting St., Navotas City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Sa pag-aaral ng aking anak</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Sa tulong niyo po sana makapasok ako ng trabaho dito, patuloy makapag-aral ang aking anak.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:00:55+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:00:55+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">68</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Aloha M. Maano</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">39</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">J. A. Roldan St., Brgy. San Roque Navotas City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, makapagtrabaho</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Kasi nakakatulong sa aming pamilya</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:02:25+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:02:25+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">69</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lea E. Angara</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">24</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Brgy. 649 Baseco Manila</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nagpapahiram sila ng pera</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo dahil kahit papano matutulungan nila ako kahit konti sa hanapbuhay.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ang magkaron ng trabaho na talagang makakatulong ng todo sa aking pangangailangan.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:04:17+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:04:17+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">70</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Filipinas T. Quijano</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">42</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">J. A. Roldan Everlasting San Roque Navotas City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nakakapag-ara kasi ang mga anak ko</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:06:01+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:06:01+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">71</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Emmanuel B. Silvestre</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">37</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Laborer</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Brgy. San Roque Navotas City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Job fair</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Makahanap ng trabaho</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala na.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:10:36+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:10:36+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">72</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ruben O. Pastor</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">37</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">#343 B. Cruz St., Tangos, Navotas City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Job o trabaho</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Naasikaso kaagad.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:11:32+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:11:32+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">73</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Concepcion B. Deniega</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">34</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Block 30 Lot 4 B. Cruz St., Tangos Navotas City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Trabaho</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo kasi may trabaho sila ibibigay, pero hindi pa talaga sigurado ako na makakapagtrabaho ako</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Gusto ko po ang mga anak ko tatlo.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:13:48+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:13:48+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">74</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Salvacion S. Magbanua</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">31</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Tangos Navotas City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Nagkakaroon po kami ng suporta para sa aming mga anak</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, kahit ano basta po makatulong sa amin.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:26:59+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:26:59+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">75</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">John Mark C. Olatan</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">18</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Lalaki</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wala</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">037 San Pedro St., Brgy. Commonwealth Q.C.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Ang napakinabangan ko po ay yung pera na naibigay</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Dahil hindi sapat ang serbisyo na naibigay samin kasi marami po kaming pangangailangan tulad ng trabaho.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Meron po. Trabaho na pwedeng makapasok para makatulong sa magulang.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:29:21+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:29:21+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">76</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Medina T. Alensolorin</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">40</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Housewife</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Blk I Lot 8 Santol St., Mangga 3 Nagpayong Pinagbuhatan Pasig City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Pantawid Pamilya Pilipino Program</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, dahil malaking tulong po ito sa aming mga anak sa kanilang edukasyon at sa aming kalusugan sa aming pamilya.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:31:04+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:31:04+08:00</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">77</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Teresa Taniegra</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">35</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Babae</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Bag maker</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">353 Tangili St., Mulawin Maricaban Pasay City</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hindi</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Job fair</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Oo, dahil mas maraming option silang naibigay sa mga katulad kong lampas na sa age limit</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Health services.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:32:50+08:00</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">2012-06-06T15:32:50+08:00</ss:Data></ss:Cell>
+</ss:Row>
+</ss:Table>
+</ss:Worksheet>
+</ss:Workbook>
