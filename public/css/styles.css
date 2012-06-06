@@ -107,15 +107,15 @@ label {
   height: 40px;
   font-size: 20px;
   margin-left: 125px;
-  color: white;
-  background-color: #5599cb;
-  border-radius: 5px;
-  text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.4);
+  color: #333;
+  border-radius: 3px;
+  text-shadow: 0 1px 0 white;
 }
 
 #submit:hover {
   color: white;
-  background-color: #5582cb;
+  background-color: #4183c4;
+  text-shadow: 0 1px 0 black;
 }
 
 footer {
