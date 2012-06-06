@@ -2,41 +2,43 @@
   
   %form(action="/create" method="post")
     #left-part
-      %label(for="full_name")Pangalan:
-      %input(type="text" name="full_name" placeholder="Pakisulat ang buong pangalan...")
+      %label(for="pangalan")Pangalan:
+      %input(type="text" name="pangalan" placeholder="Pakisulat ang buong pangalan...")
 
-      %label(for="age")Edad:
-      %input(type="number" name="age" min="16" max="120")
+      %label(for="edad")Edad:
+      %input(type="number" name="edad" min="16" max="120")
 
-      %label(for="sex")Kasarian:
-      %select(id="sex" name="sex")
-        %option(value="M") Lalaki - (Male)
-        %option(value="F") Babae - (Female)
+      %label(for="kasarian")Kasarian:
+      %select(id="kasarian" name="kasarian")
+        %option(value="Lalaki") Lalaki
+        %option(value="Babae") Babae
 
-      %label(for="work")Hanap-Buhay:
-      %input(type="text" name="work" placeholder="Ano ang trabaho...")
+      %label(for="trabaho")Hanap-Buhay:
+      %input(type="text" name="trabaho" placeholder="Ano ang trabaho...")
 
-      %label(for="address")Tirahan / Address:
-      %textarea(name="address" rows="4" placeholder="Saan nakatira...")
+      %label(for="tirahan")Tirahan / Address:
+      %textarea(name="tirahan" rows="4" placeholder="Saan nakatira...")
 
-      %label(for="benefits")Benipisyaryo ng 4Ps?
-      %select(name="benefits")
-        %option(value="yes") Oo - (Yes)
-        %option(value="no") Hindi - (No)
+      %label(for="benipisyaryo")Benipisyaryo ng 4Ps?
+      %select(name="benipisyaryo")
+        %option(value="Oo") Oo
+        %option(value="Hindi") Hindi
 
     #right-part
       %h2 Mga katanungan:
       %ol
         %li Anong serbisyo o mga serbisyo dito sa Akbay-Kapwa ang iyong napakinabangan?
-        %input(type="text" name="first_answer")
+        %input(type="text" name="unang_sagot")
 
-        %li Kuntento ka ba sa serbisyo o mga serbisyo na naibigay sa iyo?
-        %input(type="text" name="second_answer")
+        %li Kuntento ka ba sa serbisyo o mga serbisyo na naibigay sa iyo? (Oo/Hindi)
+        %select(name="pangalawang_sagot")
+          %option(value="Oo") Oo
+          %option(value="Hindi") Hindi
 
         %li Bakit Oo/Hindi ang iyong sagot?
-        %textarea(name="third_answer")
+        %textarea(name="pangatlong_sagot")
 
         %li Liban sa mga serbisyo dito sa Akbay-Kapwa, may iba pang serbisyo ng pamahalaan ang nais mong mapakinabangan? Paki-tukoy.
-        %textarea(name="fourth_answer")
+        %textarea(name="pangapat_sagot")
 
       %input(type="submit" id="submit" value="Save")

@@ -4,19 +4,19 @@ class Person
 
   include DataMapper::Resource
 
-  property :id,             Serial
-  property :name,           String
-  property :age,            String
-  property :sex,            String
-  property :work,           String
-  property :address,        Text
-  property :benefit,        String
-  property :first_answer,   Text
-  property :second_answer,  Text
-  property :third_answer,   Text
-  property :fourth_answer,  Text
-  property :created_at,     DateTime
-  property :updated_at,     DateTime
+  property :id                , Serial
+  property :pangalan          , String
+  property :edad              , String
+  property :kasarian          , String
+  property :trabaho           , String
+  property :tirahan           , Text
+  property :benipisyaryo      , String
+  property :unang_sagot       , Text
+  property :pangalawang_sagot , Text
+  property :pangatlong_sagot  , Text
+  property :pangapat_sagot    , Text
+  property :created_at        , DateTime
+  property :updated_at        , DateTime
 
 end
 

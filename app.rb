@@ -18,24 +18,23 @@ end
 
 # create record
 post '/create' do
-  p               = Person.new
-  p.name          = params[:full_name]
-  p.age           = params[:age]
-  p.sex           = params[:sex]
-  p.work          = params[:work]
-  p.address       = params[:address]
-  p.benefit       = params[:benefits]
-  p.first_answer  = params[:first_answer]
-  p.second_answer = params[:second_answer]
-  p.third_answer  = params[:third_answer]
-  p.fourth_answer = params[:fourth_answer]
-  p.created_at    = Time.now
+  p                   = Person.new
+  p.pangalan          = params[:pangalan]
+  p.edad              = params[:edad]
+  p.kasarian          = params[:kasarian]
+  p.trabaho           = params[:trabaho]
+  p.tirahan           = params[:tirahan]
+  p.benipisyaryo      = params[:benipisyaryo]
+  p.unang_sagot       = params[:unang_sagot]
+  p.pangalawang_sagot = params[:pangalawang_sagot]
+  p.pangatlong_sagot  = params[:pangatlong_sagot]
+  p.pangapat_sagot    = params[:pangapat_sagot]
+  p.created_at        = Time.now
+  p.updated_at        = Time.now
 
   if p.save
-    status 201
-    redirect '/success'
+    redirect '/new'
   else
-    status 412
     redirect '/failed'
   end
 end
